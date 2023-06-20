@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+}
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px;
+    list-style-type: none;
+    background-color: #04BF8A;
+}
+
+.cabecalho li a:hover {
+    background-color: #05F26C;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.cabecalho a{
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+    margin: 50px;
+    color: #11538C;
+}
+
+.quadrado {
+    height: 200px;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quadrado span {
+    font-size: 20px;
+    color: white;
+}
+
+.big-div{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.c1{
+    padding: 30px;
+    background-color: #11538C;
+    width: 500px;
+    margin: 30px;
+}
+
+.c1 p{
+    margin-bottom: 10px;
+}
+
+.c2{
+    padding: 30px;
+    background-color: #04BF8A;
+    width: 500px;
+    margin: 30px;
+}
+
+.c2 p {
+    margin-bottom: 10px;
+}
+
+.c3{
+    padding: 30px;
+    background-color: #04BF8A;
+    width: 500px;
+    margin: 30px;
+}
+
+.c3 p {
+    margin-bottom: 10px;
+}
+
+.c4{
+    padding: 30px;
+    background-color: #11538C;
+    width: 500px;
+    margin: 30px;
+}
+
+.c4 p{
+    margin-bottom: 10px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    font-size: 25px;
+    background-color: #04BF8A;
+    color: black;
+}
+
+.rodape li {
+    list-style: none;
+}
+
+.rodape li:hover {
+    color: #0511F2;
+}

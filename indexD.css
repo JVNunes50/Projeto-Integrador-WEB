@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+}
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px;
+    list-style-type: none;
+    background-color: #04BF8A;
+}
+
+.cabecalho li a:hover {
+    background-color: #05F26C;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.cabecalho a{
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+    margin: 50px;
+    color: #11538C;
+}
+
+.big-div{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    align-items: center;
+    padding: 30px;
+}
+
+.union{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    padding: 20px;
+}
+
+.info{
+    background-color: #11538C;
+}
+
+.info p {
+    margin-bottom: 20px;
+}
+
+.info h2{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.result{
+    color: white;
+    margin-left: 20px;
+}
+
+.awards{
+    background-color: #11538C
+}
+
+.awards h2{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.awards p {
+    margin-bottom: 20px;
+}
+
+.resultP{
+    color: white;
+    margin-left: 20px;
+}
+
+.end{
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.end2{
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    font-size: 25px;
+    background-color: #04BF8A;
+    color: black;
+}
+
+.rodape li {
+    list-style: none;
+}
+
+.rodape li:hover {
+    color: #0511F2;
+}

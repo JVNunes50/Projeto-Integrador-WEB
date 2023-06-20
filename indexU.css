@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+}
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px;
+    list-style-type: none;
+    background-color: #04BF8A;
+}
+
+.cabecalho li a:hover {
+    background-color: #05F26C;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.cabecalho a{
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+}
+
+.big-div{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    align-items: center;
+    padding: 30px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+button{
+    background-color: rgb(211, 20, 20);
+    padding: 10px;
+}
+
+.info{
+    background-color: #11538C;
+}
+
+.info p {
+    margin-bottom: 20px;
+}
+
+.info h2{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.union p{
+    font-size: 20px;
+}
+
+.union{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    padding: 20px;
+}
+
+.dado{
+    color: white;
+    margin-left: 20px;
+}
+
+.quadrado {
+    width: 200px;
+    height: 200px;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quadrado span {
+    font-size: 20px;
+    color: white;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    font-size: 25px;
+    background-color: #04BF8A;
+    color: black;
+}
+
+.rodape li {
+    list-style: none;
+}
+
+.rodape li:hover {
+    color: #0511F2;
+}
