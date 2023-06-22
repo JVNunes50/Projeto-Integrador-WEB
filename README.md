@@ -2,4 +2,4 @@
 
 ## Nome dos alunos
 
-++ João Vito Nunes
+** João Vito Nunes
