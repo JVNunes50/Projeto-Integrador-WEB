@@ -1,7 +1,7 @@
 # Projeto Integrador
 
 ## Nome dos alunos
-* João Vito Nunes
+* João Vitor Nunes
 * Marcio Provedel Dalla Bernardina
 * Alysson Martins Godinho
 * Rickson Medice Tome
