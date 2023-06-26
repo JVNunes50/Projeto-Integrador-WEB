@@ -5,3 +5,4 @@
 * Marcio Provedel Dalla Bernardina
 * Alysson Martins Godinho
 * Rickson Medice Tome
+* Edison Pompermayer Netto
